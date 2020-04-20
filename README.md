@@ -5,7 +5,7 @@ To build and install it like I do:
 
 ```
 git clone https://github.com/hydride0/moc
-\`cat configure.options\` (or ./configure if you want your own config)
+`cat configure.options` (or ./configure if you want your own config)
 make -j5
 sudo make install
 ```
