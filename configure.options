@@ -1,0 +1,1 @@
+./configure --disable-debug --without-aac --without-mp3 --without-oss --without-modplug --without-jack --without-samplerate --without-flac --without-musepack --without-vorbis --without-timidity --without-sidplay2 --without-sndfile --without-wavpack --without-speex --without-curl
